@@ -1,0 +1,6 @@
+com.aleragroup.arch.proxyservice
+com.aleragroup.arch.proxyservice.configuration
+com.aleragroup.arch.proxyservice.controller
+com.aleragroup.arch.proxyservice.exception
+com.aleragroup.arch.proxyservice.provider
+com.aleragroup.arch.proxyservice.service
